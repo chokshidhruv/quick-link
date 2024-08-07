@@ -3,6 +3,6 @@
     "version": "1.0",
     "name": "Quick Link",
     "action": {
-        "default_popup": "index.html"
+        "default_popup": "../src/index.html"
     }
 }
